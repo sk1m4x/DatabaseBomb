@@ -11,6 +11,9 @@ Explosive for MySQL database.
 * socks
 * random
 
+### Instalação ###
+```$ git clone https://github.com/sk1m4x/DatabaseBomb```
+
 ### Tutorial ###
 ```$ python database_bomb.py <target> <bots>```
 
@@ -19,3 +22,6 @@ Explosive for MySQL database.
 
 ### Como funciona ###
 https://www.youtube.com/watch?v=GIYoGKOZFTM
+
+# Contribuição do código
+As funções e classes que dão vida ao DatabaseBomb está no arquivo "DBomberClass.py", podem modificar mas peço que não retirem e nem modifiquem nada desde a linha 1 até a linha 12.
