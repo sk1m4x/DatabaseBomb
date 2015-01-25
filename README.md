@@ -1,4 +1,4 @@
-DatabaseBomb
+DatabaseBomb (Em fase de desenvolvimento, ainda!)
 =====
 Explosive for MySQL database.
 
