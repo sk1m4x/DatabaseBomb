@@ -1,6 +1,6 @@
 #DatabaseBomb
 ### Em fase de desenvolvimento ainda! ###
-=====Explosive for MySQL database.
+Explosive for MySQL database.
 
 ### Libs necessárias ###
 * bs4
