@@ -94,14 +94,6 @@ class Execute:
 
 							else:
 
-								char_1	=	random.choice(chars)
-								char_2	=	random.choice(chars)
-								char_3	=	random.choice(chars)
-								char_4	=	random.choice(chars)
-								char_5	=	random.choice(chars)
-								char_6	=	random.choice(chars)
-								char_7	=	random.choice(chars)
-								char_8	=	random.choice(chars)
 								passwd	=	"#%s%s%s%s%s%s%s%s" % (char_1,char_2,char_3,char_4,char_5,char_6,char_7,char_8)
 
 								if "email" in input.prettify():
